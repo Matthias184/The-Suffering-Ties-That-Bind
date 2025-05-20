@@ -1,0 +1,13 @@
+version 1.1
+id 90
+dvd_resident VSOMT
+dependencies 9
+..\..\World Common\World Common\World Common
+..\..\Common\Resources\Resources
+..\..\Common\Player\Player Weapon and FX
+..\..\Common\System\System
+..\..\World Common\Dynamic Objects\Dynamic Objects
+..\..\Common\NPCs\NPCs
+..\..\Common\FX\Environmental FX
+..\..\Common\Player\Player
+..\..\Common\Interface\Interface

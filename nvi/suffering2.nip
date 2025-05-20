@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>The Suffering: Ties that Bind</ProfileName>
+    <Executeables>
+      <string>suffering.exe</string>
+      <string>sufferingttb.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingID>271830721</SettingID>
+        <SettingValue>3</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingID>271834322</SettingID>
+        <SettingValue>2</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingID>277041134</SettingID>
+        <SettingValue>4026531898</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingID>278257400</SettingID>
+        <SettingValue>33554433</SettingValue>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>

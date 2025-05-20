@@ -1,0 +1,16 @@
+version 1.1
+id 3
+dvd_resident VSOMT
+alternate_path
+dependencies 11
+..\Resources\Resources
+..\System\System
+..\..\World Common\World Common\World Common
+..\Interface\Interface
+..\NPCs\NPCs
+..\..\World Common\Landscape Textures\Landscape Textures
+..\Player\Player
+..\Player\Player Weapon and FX
+..\NPCs\NPCs Weapon and FX
+..\..\World Common\Skies and Lighting\Skies and Lighting
+..\..\World Common\Dynamic Objects\Dynamic Objects

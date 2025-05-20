@@ -1,0 +1,15 @@
+version 1.1
+id 6
+dvd_resident SVO
+alternate_path
+dependencies 10
+..\..\Common\System\System
+..\..\Common\Resources\Resources
+..\..\Common\FX\Environmental FX
+..\..\Common\NPCs\NPCs
+..\World Common\World Common
+..\..\Common\NPCs\NPCs Weapon and FX
+..\..\Common\Player\Player
+..\..\Common\Player\Player Weapon and FX
+..\Dynamic Objects\Dynamic Objects
+..\Skies and Lighting\Skies and Lighting

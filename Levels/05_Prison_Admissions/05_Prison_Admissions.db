@@ -1,0 +1,14 @@
+version 1.1
+id 91
+dvd_resident VSOMT
+dependencies 10
+..\..\Common\NPCs\NPCs
+..\..\World Common\World Common\World Common
+..\..\World Common\Dynamic Objects\Dynamic Objects
+..\..\Common\Player\Player
+..\..\Common\FX\Environmental FX
+..\..\Common\Resources\Resources
+..\..\Common\System\System
+..\..\World Common\Skies and Lighting\Skies and Lighting
+..\..\Common\Player\Player Weapon and FX
+..\..\Common\NPCs\NPCs Weapon and FX

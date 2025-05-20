@@ -1,0 +1,16 @@
+version 1.1
+id 62
+dvd_resident VSOMT
+alternate_path
+dependencies 11
+..\..\Common\NPCs\NPCs
+..\..\Common\NPCs\NPCs Weapon and FX
+..\..\Common\Player\Player
+..\..\Common\Player\Player Weapon and FX
+..\..\Common\Resources\Resources
+..\..\Common\FX\Environmental FX
+..\..\Common\System\System
+..\..\Common\Interface\Interface
+..\World Common\World Common
+..\Landscape Textures\Landscape Textures
+..\Skies and Lighting\Skies and Lighting

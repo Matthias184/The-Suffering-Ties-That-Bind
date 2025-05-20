@@ -1,0 +1,6 @@
+version 1.05
+id 5
+dvd_resident SVOMT
+alternate_path "Share" XB+SP() XB+FR() XB(V)
+shared
+dependencies 0

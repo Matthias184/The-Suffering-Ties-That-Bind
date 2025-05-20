@@ -1,0 +1,17 @@
+version 1.1
+id 7
+dvd_resident VSO
+alternate_path
+dependencies 12
+..\..\Common\FX\Environmental FX
+..\..\Common\System\System
+..\..\Common\Resources\Resources
+..\..\Common\NPCs\NPCs
+..\Landscape Textures\Landscape Textures
+..\..\Common\Interface\Interface
+..\..\Common\Player\Player
+..\..\Common\Player\Player Weapon and FX
+..\..\Common\Player\Player Weapon and FX
+..\Skies and Lighting\Skies and Lighting
+..\Dynamic Objects\Dynamic Objects
+..\..\Common\NPCs\NPCs Weapon and FX

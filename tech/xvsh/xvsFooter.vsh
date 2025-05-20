@@ -1,0 +1,1 @@
+mov oD0, Rc // copy into lighting register

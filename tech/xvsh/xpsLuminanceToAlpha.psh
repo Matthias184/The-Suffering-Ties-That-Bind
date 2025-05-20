@@ -1,0 +1,12 @@
+; XBOX PIXEL SHADER: Black and white, in one instruction!
+ps.1.1
+
+; luminance equation is 0.299R + 0.587G + 0.114B
+def c0, 0.299f, 0.587f, 0.114f, 1.0f
+tex t0
+
+; compute luminance into r1.rgb
+dp3 r1.rgb, c0, t0 ; multiply and add c0 with texture color to give us grayscale
+
+mov r0, t0
+mov r0.a, r1.b; blue replicate (r0.a = r1.dp3())

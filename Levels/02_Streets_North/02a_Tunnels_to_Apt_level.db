@@ -1,0 +1,5 @@
+version 1.05
+id 112
+dvd_resident VSOMT
+alternate_path "Share" XB(LA)
+dependencies 0

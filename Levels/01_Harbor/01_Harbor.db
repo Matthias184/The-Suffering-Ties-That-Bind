@@ -1,0 +1,15 @@
+version 1.1
+id 109
+dvd_resident VSOMT
+dependencies 11
+..\..\World Common\Dynamic Objects\Dynamic Objects
+..\..\Common\FX\Environmental FX
+..\..\World Common\Harbor Common\Harbor Common
+..\..\Common\Interface\Interface
+..\..\World Common\Landscape Textures\Landscape Textures
+..\..\Common\NPCs\NPCs
+..\..\Common\Player\Player
+..\..\Common\System\System
+..\..\World Common\World Common\World Common
+..\..\World Common\Streets Common\Streets Common
+..\..\Common\Resources\Resources

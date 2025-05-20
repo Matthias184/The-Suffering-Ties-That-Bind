@@ -1,0 +1,12 @@
+version 1.1
+id 58
+dvd_resident
+alternate_path
+dependencies 7
+..\World Common\World Common
+..\..\Common\Resources\Resources
+..\..\Common\Player\Player
+..\..\Common\Player\Player Weapon and FX
+..\..\Common\FX\Environmental FX
+..\..\Common\System\System
+..\Landscape Textures\Landscape Textures

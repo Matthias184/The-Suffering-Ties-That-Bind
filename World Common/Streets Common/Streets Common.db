@@ -1,0 +1,13 @@
+version 1.1
+id 82
+dvd_resident VSOMT
+dependencies 9
+..\Dynamic Objects\Dynamic Objects
+..\..\Common\FX\Environmental FX
+..\Landscape Textures\Landscape Textures
+..\..\Common\NPCs\NPCs
+..\..\Common\Player\Player
+..\..\Common\System\System
+..\World Common\World Common
+..\..\Common\Interface\Interface
+..\..\Common\Resources\Resources

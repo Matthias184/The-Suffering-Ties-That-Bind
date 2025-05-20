@@ -1,0 +1,13 @@
+; XBOX PIXEL SHADER: Black and white, in one instruction!
+ps.1.1
+
+; luminance value is stored in 'a' component of t0 (framebuffer).
+tex t0
+
+; grab pixel from t0 by referencing 'a' as 'u' coordinate
+texreg2ar  t1, t0
+
+mov r0.rgb, t1 ; dstcolor = CLUT[luminance]
+
++mul r0.a, c0.a, t1.a
+

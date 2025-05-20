@@ -1,0 +1,8 @@
+version 1.1
+id 116
+dvd_resident VSOMT
+dependencies 4
+..\05_Prison_Admissions\05_Prison_Kitchen
+..\..\Common\NPCs\NPCs
+..\..\Common\Player\Player
+..\..\Common\Resources\Resources

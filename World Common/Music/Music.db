@@ -1,0 +1,6 @@
+version 1.05
+id 57
+dvd_resident SO
+alternate_path "Share" XB+FR() XB+SP() XB(S)
+shared
+dependencies 0

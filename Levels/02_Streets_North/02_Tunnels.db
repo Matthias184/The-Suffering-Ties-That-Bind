@@ -1,0 +1,15 @@
+version 1.1
+id 108
+dvd_resident VSOMT
+dependencies 11
+..\..\World Common\Dynamic Objects\Dynamic Objects
+..\..\Common\FX\Environmental FX
+..\..\Common\Interface\Interface
+..\..\World Common\Landscape Textures\Landscape Textures
+..\..\Common\NPCs\NPCs
+..\..\Common\Player\Player
+..\..\World Common\Streets Common\Streets Common
+..\..\Common\System\System
+..\..\World Common\World Common\World Common
+..\..\Common\Resources\Resources
+..\..\Common\Player\Player Weapon and FX

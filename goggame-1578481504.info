@@ -1,0 +1,45 @@
+{
+    "buildId": "50434601693132208", 
+    "clientId": "50341770862239208", 
+    "gameId": "1578481504", 
+    "language": "English", 
+    "languages": [
+        "en"
+    ], 
+    "name": "The Suffering: Ties That Bind", 
+    "playTasks": [
+        {
+            "category": "game", 
+            "compatibilityFlags": "XPSP3 RUNASADMIN", 
+            "isPrimary": true, 
+            "languages": [
+                "*"
+            ], 
+            "name": "The Suffering: Ties That Bind", 
+            "path": "sufferingTTB.exe", 
+            "type": "FileTask"
+        }, 
+        {
+            "category": "launcher", 
+            "compatibilityFlags": "XPSP3 RUNASADMIN", 
+            "icon": "goggame-1578481504.ico", 
+            "languages": [
+                "*"
+            ], 
+            "name": "Settings", 
+            "path": "Launcher.exe", 
+            "type": "FileTask"
+        }, 
+        {
+            "category": "document", 
+            "languages": [
+                "*"
+            ], 
+            "link": "http://www.gog.com/support/the_suffering_ties_that_bind", 
+            "name": "Support", 
+            "type": "URLTask"
+        }
+    ], 
+    "rootGameId": "1578481504", 
+    "version": 1
+}

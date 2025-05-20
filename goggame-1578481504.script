@@ -1,0 +1,54 @@
+{
+    "actions": [
+        {
+            "install": {
+                "action": "Execute", 
+                "arguments": {
+                    "conditions": [
+                        "onlyOnce"
+                    ], 
+                    "executable": "{app}/nvi/GPUCheckSuffering2.exe", 
+                    "runAsAdmin": true, 
+                    "workingDir": "{app}/nvi"
+                }
+            }, 
+            "languages": [
+                "*"
+            ], 
+            "name": "GPU Check"
+        }, 
+        {
+            "install": {
+                "action": "setRegistry", 
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE", 
+                    "subkey": "SOFTWARE\\Surreal\\Suffering2", 
+                    "valueData": "{app}\\", 
+                    "valueName": "Installation", 
+                    "valueType": "string"
+                }
+            }, 
+            "languages": [
+                "*"
+            ], 
+            "name": "registryKey1"
+        }, 
+        {
+            "install": {
+                "action": "setRegistry", 
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE", 
+                    "subkey": "SOFTWARE\\Surreal\\Suffering2", 
+                    "valueData": "DISK1", 
+                    "valueName": "PlayDiskVolumeLabel", 
+                    "valueType": "string"
+                }
+            }, 
+            "languages": [
+                "*"
+            ], 
+            "name": "registryKey2"
+        }
+    ], 
+    "productId": "1578481504"
+}

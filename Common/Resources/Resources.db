@@ -1,0 +1,10 @@
+version 1.1
+id 4
+dvd_resident SVO
+alternate_path "" lternate_path
+shared
+dependencies 4
+..\System\System
+..\Interface\Interface
+..\Player\Player
+..\Player\Player Weapon and FX
